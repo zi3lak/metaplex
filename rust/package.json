@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "@project-serum/common": "^0.0.1-beta.3",
-    "quicktype-core": "^6.0.70"
+    "quicktype-core": "^20.0.5"
   }
 }
