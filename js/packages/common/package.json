@@ -30,7 +30,7 @@
     "format:fix": "prettier --write \"**/*.+(js|jsx|ts|tsx|json|css|md)\""
   },
   "dependencies": {
-    "@bundlr-network/client": "^0.2.4",
+    "@bundlr-network/client": "^0.5.10",
     "@metaplex/arweave-cost": "^1.0.4",
     "@project-serum/serum": "^0.13.52",
     "@solana/spl-token": "0.1.6",
