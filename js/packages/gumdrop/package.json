@@ -15,7 +15,7 @@
     "@fontsource/sora": "^4.5.0",
     "@ledgerhq/hw-transport": "^6.3.0",
     "@ledgerhq/hw-transport-webusb": "^6.3.0",
-    "@mailchimp/mailchimp_transactional": "^1.0.46",
+    "@mailchimp/mailchimp_transactional": "^1.0.59",
     "@mui/icons-material": "^5.0.1",
     "@mui/material": "^5.0.2",
     "@oyster/common": "0.0.2",
