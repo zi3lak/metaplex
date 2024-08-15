@@ -30,14 +30,14 @@
     "format:fix": "prettier --write \"**/*.+(js|jsx|ts|tsx|json|css|md)\""
   },
   "dependencies": {
-    "@bundlr-network/client": "^0.2.4",
+    "@bundlr-network/client": "^0.11.17",
     "@metaplex/arweave-cost": "^1.0.4",
     "@project-serum/serum": "^0.13.52",
     "@solana/spl-token": "0.1.6",
     "@solana/spl-token-registry": "0.2.202",
     "@solana/wallet-adapter-base": "^0.4.1",
     "@solana/wallet-adapter-react": "^0.7.1",
-    "@solana/wallet-adapter-wallets": "^0.6.1",
+    "@solana/wallet-adapter-wallets": "^0.13.0",
     "@solana/web3.js": "^1.21.0",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
