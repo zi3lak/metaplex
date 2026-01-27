@@ -4,7 +4,7 @@
   "dependencies": {
     "@ant-design/icons": "^4.4.0",
     "@babel/preset-typescript": "^7.12.13",
-    "@bundlr-network/client": "^0.2.4",
+    "@bundlr-network/client": "^0.11.17",
     "@cloudflare/stream-react": "^1.1.0",
     "@google/model-viewer": "^1.7.2",
     "@magic-ext/solana": "^0.2.0",
@@ -31,7 +31,7 @@
     "isomorphic-unfetch": "^3.1.0",
     "less": "^4.1.1",
     "less-loader": "^10.0.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "magic-sdk": "^5.1.0",
     "mime": "^3.0.0",
     "next": "^11.0.1",
